@@ -1,0 +1,17 @@
+body{
+ background-color:lightgrey;
+  font-size:25px;
+  color:#3d0f2e	;
+ font-family: 'Architects Daughter', cursive;
+}
+
+h1 { color:#800060;
+text-align:center;
+font-family: 'Monoton', cursive;}
+
+img{
+float:left;
+margin: 10px 10px 10px 0px;
+height:390px;
+}
+
